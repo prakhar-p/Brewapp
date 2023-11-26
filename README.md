@@ -1,3 +1,8 @@
+
+# OUTPUT
+
+https://github.com/prakhar-p/Brewapp/assets/74608125/fb307798-67b2-4412-924d-6a1b22b326c5
+
 # brewapp
 
 A new Flutter project.
